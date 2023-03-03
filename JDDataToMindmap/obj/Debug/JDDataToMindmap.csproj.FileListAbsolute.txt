@@ -1,0 +1,7 @@
+E:\Project\JDDataToMindmap\JDDataToMindmap\bin\Debug\JDDataToMindmap.exe.config
+E:\Project\JDDataToMindmap\JDDataToMindmap\bin\Debug\JDDataToMindmap.exe
+E:\Project\JDDataToMindmap\JDDataToMindmap\bin\Debug\JDDataToMindmap.pdb
+E:\Project\JDDataToMindmap\JDDataToMindmap\obj\Debug\JDDataToMindmap.csprojAssemblyReference.cache
+E:\Project\JDDataToMindmap\JDDataToMindmap\obj\Debug\JDDataToMindmap.csproj.CoreCompileInputs.cache
+E:\Project\JDDataToMindmap\JDDataToMindmap\obj\Debug\JDDataToMindmap.exe
+E:\Project\JDDataToMindmap\JDDataToMindmap\obj\Debug\JDDataToMindmap.pdb
